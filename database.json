@@ -1,0 +1,108 @@
+{
+  "courses": [
+    {
+      "id": "9c74",
+      "course": "Mern Fullstack",
+      "imgRef": "https://hyderabadittrainings.com/images/course/full-stack-dev.webp",
+      "description": "Hyderabad IT Trainings Offers job oriented MERN Stack Training in Hyderabad. The trainers at Hyderabad IT Trainings are corporate professionals providing in-depth MERN stack Development. The MERN stack developer Course at Hyderabad IT Trainings will aim to provide our students the realtime knowledge and practical skills lined with industry standards. In this MERN stack course, we cover React JS, Node JS, Express JS, MongoDB, HTML, CSS, Bootstrap, Javascript, JQuery with live projects.",
+      "duration": "100",
+      "skills": "Html,Css,js,React,Bootstrap,Jquery,Mongodb,Express js,Node js"
+    },
+    {
+      "id": "a1ed",
+      "course": "Ui Development",
+      "imgRef": "https://hyderabadittrainings.com/images/course/ui.webp",
+      "description": "UI Development (User Interface Development) is the development of websites, web applications. User Interface plays a key role in the software development life cycle. Our UI Developer Course in Hyderabad is designed for beginners, working professionals. UI Developer Course makes you learn the complete concepts of UI technologies right from basics to advanced level. In this UI Development course we cover HTML, CSS, Bootstrap, Javascript, JQuery, ReactJS, Redux with live projects.",
+      "duration": "75",
+      "skills": "Html,Css,js,React,Bootstrap,react"
+    },
+    {
+      "id": "192b",
+      "course": "Python Fullstack",
+      "imgRef": "https://hyderabadittrainings.com/images/course/python%20(1).jpg",
+      "description": "Hyderabad IT Trainings Offers job oriented Python Full stack Developer Course training in Hyderabad. The trainers at Hyderabad IT Trainings are corporate professionals providing in-depth Python Full Stack Development. The Python Full Stack Course at Hyderabad IT Trainings will aim to provide our students with realtime knowledge and practical skills lined with industry standards. In this Python full stack development course, we cover Python, DJango framework, MySQL, Rest API, React JS, HTML, CSS, Bootstrap, Javascript, JQuery, Github, Jupyter Notebook with live projects.",
+      "duration": "125",
+      "skills": "Html,Css,js,Bootstrap,Python,Django"
+    }
+  ],
+  "batch": [
+    {
+      "id": "1",
+      "course": "Mern Full Stack",
+      "startDate": "2024-09-22",
+      "duration": "100",
+      "timinings": "11:00 AM - 12:00 PM",
+      "trainer": "Bhargav prasad"
+    },
+    {
+      "id": "2",
+      "course": "Ui/Ux Design",
+      "startDate": "2024-010-22",
+      "duration": "120",
+      "timinings": "10:00 AM - 11:00 AM",
+      "trainer": "Shakthivel"
+    },
+    {
+      "id": "1",
+      "course": "Mern Full Stack",
+      "startDate": "2024-09-22",
+      "duration": "100",
+      "timinings": "11:00 AM - 12:00 PM",
+      "trainer": "Bhargav"
+    },
+    {
+      "id": "2",
+      "course": "Ui/Ux Design",
+      "startDate": "2024-010-22",
+      "duration": "120",
+      "timinings": "10:00 AM - 11:00 AM",
+      "trainer": "Shakthivel"
+    },
+    {
+      "id": "076f",
+      "course": "python",
+      "startDate": "2024-10-17",
+      "duration": "125",
+      "timinings": "11:00 AM - 12:00PM",
+      "trainer": "sudheer"
+    },
+    {
+      "id": "87a8",
+      "course": "python",
+      "startDate": "2024-10-17",
+      "duration": "125",
+      "timinings": "11:00 AM - 12:00PM",
+      "trainer": "sudheer"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "c844",
+      "name": "CHENCHANABOINA VISHNU VARDHAN",
+      "mobile": "7671897772",
+      "email": "vishnuvardhanc117@gmail.com",
+      "course": "mern",
+      "message": "intrested"
+    }
+  ],
+  "employees": [
+    {
+      "name": "vishnu",
+      "role": "react developer",
+      "branch": "hyderabad",
+      "id": "5a35"
+    },
+    {
+      "name": "shabari",
+      "role": "java developer",
+      "branch": "banglore",
+      "id": "7bc7"
+    },
+    {
+      "name": "madhan",
+      "role": "data scientist",
+      "branch": "banblore",
+      "id": "05ba"
+    }
+  ]
+}
